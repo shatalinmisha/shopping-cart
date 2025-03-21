@@ -1,0 +1,30 @@
+.conteiner {
+    padding: 20px;
+}
+
+.title {
+    color: black;
+    margin: 0 0 15px;
+}
+
+.pushBtn {
+    color: #ffffff;
+    background-color: #1ed11e;
+    padding: 12px 15px;
+    margin: 0 5px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.item {
+    width: 300px;
+    margin: 0 0 5px;
+    padding: 5px 10px;
+}
